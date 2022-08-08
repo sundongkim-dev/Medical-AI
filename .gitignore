@@ -1,0 +1,5 @@
+# no .pth files
+*.pth
+
+# no .png files
+*.png
